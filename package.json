@@ -1,0 +1,24 @@
+{
+	"name": "@jokio/realtime-server-sample",
+	"version": "0.1.0",
+	"description": "Realtime server app with graphql and datastore",
+	"main": "dist/index.js",
+	"types": "dist/index.d.js",
+	"scripts": {
+		"start": "node dist",
+		"test": "echo 'Everything is awesome!'",
+		"dev": "nodemon"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"nodemon": "1.12.4",
+		"ts-node": "4.0.1",
+		"typescript": "2.6.2"
+	},
+	"publishConfig": {
+		"access": "public"
+	},
+	"keywords": [],
+	"author": "Jok Entertainers",
+	"license": "MIT"
+}
