@@ -1,5 +1,7 @@
-# Datastore Toolkit
+# Realtime Server
 
-[![Build Status](https://travis-ci.org/jokio/datastore.svg?branch=master)](https://travis-ci.org/jokio/datastore)
+This is sample app which shows how can we use great technologies togeather to achieve max. prodactivity:
 
-[![npm version](https://badge.fury.io/js/%40jokio%2Fdatastore.svg)](https://badge.fury.io/js/%40jokio%2Fdatastore)
+* GraphQL (Api)
+* Datastore (Database)
+* Now (Deployment)
